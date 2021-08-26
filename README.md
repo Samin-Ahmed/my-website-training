@@ -2,6 +2,4 @@
 
 This is my website for training purposes
 
-
-
-Now editing on update-readme branch. 
+Updates made on main on GH before rebase.
